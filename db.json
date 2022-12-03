@@ -1,0 +1,14 @@
+{
+    "books": [
+      {
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "id": 1
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F.S Fitzgerald",
+        "id": 2
+      }
+    ]
+  }
